@@ -1,8 +1,8 @@
 基于java SpringBoot和Vue uniapp的共享充电宝微信小程序
 
-版本1演示视频链接：https://live.csdn.net/v/374679
+版本1演示视频链接：https://www.bilibili.com/video/BV14r42147WH/
 
-版本2演示视频链接：https://live.csdn.net/v/439028
+版本2演示视频链接：https://www.bilibili.com/video/BV1kVrZYyEUh/
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode  。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
 
